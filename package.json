@@ -20,6 +20,7 @@
     "cors": "^2.8.5",
     "expess": "^0.0.1-security",
     "express": "^4.19.2",
-    "firebase": "^10.12.3"
+    "firebase": "^10.12.3",
+    "firebase-admin": "^12.2.0"
   }
 }
